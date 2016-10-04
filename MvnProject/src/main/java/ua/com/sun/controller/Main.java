@@ -26,6 +26,7 @@ public class Main {
 		factory.close();
 		
 		System.out.println("new commit");
+		System.out.println("second commit");
 		
 
 	}
