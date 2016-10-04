@@ -25,6 +25,8 @@ public class Main {
 		manager.close();
 		factory.close();
 		
+		System.out.println("new commit");
+		
 
 	}
 
